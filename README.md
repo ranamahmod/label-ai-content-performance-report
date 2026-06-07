@@ -58,4 +58,4 @@ YouTube daily view analytics require the YouTube Analytics API with OAuth 2.0. T
 
 ---
 
-Built by [The Label AI Studios PH](https://instagram.com/thelabelaistudios.ph)
+Built by Rana Mahmod (Contact: mahmodrana24@gmail.com)
